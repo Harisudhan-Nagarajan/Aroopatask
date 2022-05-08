@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.App {
+  margin-top: 25px;
+  text-align: center;
+}
+
+#textarea {
+  border: none;
+}
+
